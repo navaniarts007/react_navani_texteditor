@@ -1,5 +1,9 @@
+![Screenshot 2025-01-09 081642](https://github.com/user-attachments/assets/0911f53f-5326-4fee-9ad9-7dfa6e1c0e1a)
 # react_navani_texteditor
 In the project directory, first run:
+
+
+
 
 ### `npm install`
 
